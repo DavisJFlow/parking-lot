@@ -1,4 +1,4 @@
-Parking Lot Reservation System
+Parking Lot Reservation System ---- 
 A Spring Boot application for managing a parking lot with floors, slots, reservations, and parking rates.
 
 Floor Management
